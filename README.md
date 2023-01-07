@@ -1,8 +1,7 @@
 # Peta Kuliner di Kota Kendari
-A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
+KOmpilasi data dari web crawlling google map dengan kata kunci restaurant. Dikerjakan tanggal 06 Januari 2023
 
 ## Link to live map (replace with link to your site)
 https://muhammadsyukrilugm.github.io/kuliner-kendari/
 
-## Create your own
-See step-by-step tutorial at https://HandsOnDataViz.org, an open-access book by Jack Dougherty and Ilya Ilyankou
+
